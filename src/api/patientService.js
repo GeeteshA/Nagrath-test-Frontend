@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 
-const BASE_URL = `http://localhost:5000/api/patients`;
+const BASE_URL = `https://nagrath-test.onrender.com/api/patients`;
 
 // https://nagrath-backend.onrender.com/api/patients
 // Search patients based on filters
